@@ -57,4 +57,26 @@ HOLA MUNDO
     </HEAD>
 </HTML>
 ```
+<<<<<<< develop
 >>>>>>> Ajustes a readme
+=======
+
+# TABLAS 
+|NOMBRE|APELLIDO|CEDULA|
+|------|--------|------|
+|ALEJANDRO|ESPINOSA RIVEROS|123456|
+|PEPIRO|PEREEEZ JIMENEZ|789101112|
+
+# CITA
+Esto es un texto que ira con una cita:
+>Esto es una cita
+
+Esto ya no es una cita textual.
+
+# SALTO DE LINEAS
+Primer parrafo
+
+segundo parrafo
+
+Tercer parrafo
+>>>>>>> Se agrego ultimos ajustes
