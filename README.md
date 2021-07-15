@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cabecera H1
 ## Cabecera H2
 ### Cabecera H3
@@ -10,3 +11,6 @@ Underline 1
 
 Underline 2
 ===========
+=======
+HOLA MUNDO
+>>>>>>> v1.0.1
